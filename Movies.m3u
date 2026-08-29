@@ -15,3 +15,69 @@ https://fs.plus.net.bd/Movies/Hindi/2026/Border 2 %282026%29/Border.2.2026.1080p
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="img/movies/movie.png",টিভি 
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+
+#PLAYLIST:CINE PLAY - SPORTS
+
+# ==============================
+# 🏆 ELEVEN SPORTS
+# ==============================
+
+#EXTINF:-1 group-title="ELEVEN" tvg-name="ELEVEN SPORTS",ELEVEN SPORTS
+https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
+
+
+# ==============================
+# 🏆 TAP SPORTS
+# ==============================
+
+#EXTINF:-1 group-title="Tap" tvg-name="Tap Sports",Tap Sports
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
+
+# ==============================
+# 🏆 FOX SPORTS UHD
+# ==============================
+
+#EXTINF:-1 group-title="FOX" tvg-name="Fox Sports UHD [US VPN]" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",Fox Sports UHD [US VPN]
+https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQxODc7YWNsPS8qO3dzaWQ9ZThkZWM0NWJhZDNjN2Y3ODNlYWMxNjYxNDk2NjQyOTVfZm94ZHRjX2FuZHJvaWR0dl9lbi1VUztobWFjPW41QjV5bE90dDdFVkhTei9aVEU4QmlxcjFxWmNmTEJWN1VXK3BLSkhsMWs9/live/uhd-1-b-uw2/index.m3u8
+
+
+# ==============================
+# 🏆 CT SPORTS FHD
+# ==============================
+
+#EXTINF:-1 group-title="CT" tvg-name="CT SPORTS FHD",CT SPORTS FHD
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+
+
+# ==============================
+# 🏆 EUROSPORT 2 FHD
+# ==============================
+
+#EXTINF:-1 group-title="EUROSPORT" tvg-name="EUROSPORT2 FHD",EUROSPORT2 FHD
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+
+# ==============================
+# 🏆 BEIN SPORTS 4
+# ==============================
+
+#EXTINF:-1 group-title="Bein Sports" tvg-name="Bein Sports 4" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg",Bein Sports 4
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+
+# ==============================
+# 🏆 BEIN SPORTS XTRA
+# ==============================
+
+#EXTINF:-1 group-title="BeIN Sports Xtra" tvg-name="beIN Sports Xtra" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg",beIN Sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+
+# ==============================
+# 🏆 SPOTV2 HD
+# ==============================
+
+#EXTINF:-1 group-title="SPOTV" tvg-name="SP0TV2 HD",SP0TV2 HD
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
