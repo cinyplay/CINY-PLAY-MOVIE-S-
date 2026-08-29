@@ -13,6 +13,5 @@ https://fs.plus.net.bd/Movies/Hindi/2026/Ohh My Dog %282026%29/Ohh.My.Dog.2026.1
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.postimg.cc/CKZ3Ffvw/MV5BMTUx-Zjgw-NTIt-Mj-Q5Yy00NGU4LTlh-MGYt-Y2Zi-N2Y2Zm-Q1MTRi-Xk-Ey-Xk-Fqc-Gc-V1.jpg",Border 2 (2026)
 https://fs.plus.net.bd/Movies/Hindi/2026/Border 2 %282026%29/Border.2.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4
 
-
-#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="img/channels/ntv.png" group-title="Bangladesh",NTV
-https://backend.plusbox.tv/NTV/embed.html?mute=false&autoplay=true&volume=50&token=
+#EXTINF:-1 group-title="Hindi" tvg-logo="img/movies/movie.png",Movie 15793
+http://103.225.94.27/mediaserver/?p=15793&from=sharebox
