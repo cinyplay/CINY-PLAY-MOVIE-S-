@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLIST: BDIX FTP MOVIES
+#PLAYLIST: BDIX LIVE MOVIES
 #EXTENC: UTF-8
 
-# Playlist Name: CINE PLAY MOVIE'S
+# Playlist Name: CINE PLAY LIVE  MOVIE'S
 
 
 #EXTM3U
@@ -15,15 +15,3 @@ https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="live_movie_3" tvg-name="24/7 Hindi Movies" tvg-logo="https://i.postimg.cc/gjH9cjLz/file-00000000569481fab88dd4a913100e42.png" group-title="24/7 Live Movies",24/7 Hindi Movies
 https://vods2.aynaott.com/hindimovies/index.m3u8
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuLMioRauQacj4bRXRsJX9Oe5H6.jpg",Alpha (2026)
-https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Alpha%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%20720p%20HEVC%20ESub.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.sunplex.net/media/2026/08/zzHV3rmS07lrFkcHXFx2J9JhZwJ-300x450.jpg",Ohh My Dog (2026) 
-https://fs.plus.net.bd/Movies/Hindi/2026/Ohh My Dog %282026%29/Ohh.My.Dog.2026.1080p.HDTC.Hindi.Clean.x264-HDHub4u.Ms.mkv
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.postimg.cc/CKZ3Ffvw/MV5BMTUx-Zjgw-NTIt-Mj-Q5Yy00NGU4LTlh-MGYt-Y2Zi-N2Y2Zm-Q1MTRi-Xk-Ey-Xk-Fqc-Gc-V1.jpg",Border 2 (2026)
-https://fs.plus.net.bd/Movies/Hindi/2026/Border 2 %282026%29/Border.2.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.postimg.cc/CKZ3Ffvw/MV5BMTUx-Zjgw-NTIt-Mj-Q5Yy00NGU4LTlh-MGYt-Y2Zi-N2Y2Zm-Q1MTRi-Xk-Ey-Xk-Fqc-Gc-V1.jpg",tik tok (2026)
-https://v19.tiktokcdn-us.com/7d1d6f73350b283fbb9a6fc785e70bdb/6a9afe70/video/tos/alisg/tos-alisg-pve-0037c001/owGUuRDbQDCEetjDfIAAIdaFWVcTZCAe8upjor/?a=1233&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&&bt=400&ft=74~WHDDwNxkVQQdGuIOnsdEmqoZqYljioTI~hWLrK&mime_type=video_mp4&rc=NjpnZztkZmU4Z2dpNzY4PEBpajNmO2s5cjdkPDMzODczNEBeMzI0LjM0XmAxMi0vXzYyYSMtb21uMmRzc2JhLS1kMTFzcw%3D%3D&vvpl=1&l=202609041122451DA098EB22758F028A0F&btag=e000f0000
