@@ -15,3 +15,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="live_movie_3" tvg-name="24/7 Hindi Movies" tvg-logo="https://i.postimg.cc/gjH9cjLz/file-00000000569481fab88dd4a913100e42.png" group-title="24/7 Live Movies",24/7 Hindi Movies
 https://vods2.aynaott.com/hindimovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Movies",Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2jFmYC3B/Asianet-2023-logo-png-utm-source-en-wikipedia.png" group-title="Movies"Asianet HD
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0tnhm9Y/images.png" group-title="Movies",Aditya Music
+https://live20.bozztv.com/giatvplayout7/giatv-210448/tracks-v1a1/mono.ts.m3u8
