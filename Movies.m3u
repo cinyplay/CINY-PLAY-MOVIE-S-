@@ -10,18 +10,26 @@
 #EXTINF:-1 tvg-id="live_movie_1" tvg-name="Eros Now Movies" tvg-logo="https://i.postimg.cc/8cjHsFRv/images-(6).jpg" group-title="24/7 Live Movies",Eros Now Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="live_movie_2" tvg-name="24/7 South Movies" tvg-logo="https://i.postimg.cc/Pr1JZQYf/file-00000000d468820798df15800527d398.png" group-title="24/7 Live Movies",24/7 South Movies
+#EXTINF:-1 tvg-id="live_movie_2" tvg-name="24/7 South Movies" tvg-logo="https://i.ibb.co.com/MyscFQJm/Hindi-Movis.png" group-title="24/7 Live Movies",24/7 South Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="live_movie_3" tvg-name="24/7 Hindi Movies" tvg-logo="https://i.postimg.cc/gjH9cjLz/file-00000000569481fab88dd4a913100e42.png" group-title="24/7 Live Movies",24/7 Hindi Movies
+#EXTINF:-1 tvg-id="live_movie_3" tvg-name="24/7 Hindi Movies" tvg-logo="https://i.ibb.co.com/MyscFQJm/Hindi-Movis.png" group-title="24/7 Live Movies",24/7 Hindi Movies
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="24/7 Live Movies",Sheemaroo Bollywood
+#EXTINF:-1 tvg-id="live_movie_4" tvg-name="Shemar Bollywood" tvg-logo="https://i.ibb.co.com/3YkmF8bs/Shemaroo-Bollywood.png" group-title="24/7 Live Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2jFmYC3B/Asianet-2023-logo-png-utm-source-en-wikipedia.png" group-title="24/7 Live Movies",Asianet HD
+#EXTINF:-1 tvg-id="live_movie_5" tvg-name="Asianet HD" tvg-logo="https://i.postimg.cc/2jFmYC3B/Asianet-2023-logo-png-utm-source-en-wikipedia.png" group-title="24/7 Live Movies",Asianet HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0tnhm9Y/images.png" group-title="24/7 Live Movies",Aditya Music
+#EXTINF:-1 tvg-id="live_movie_6" tvg-name="Aditya Music"="https://i.postimg.cc/d0tnhm9Y/images.png" group-title="24/7 Live Movies",Aditya Music
 https://live20.bozztv.com/giatvplayout7/giatv-210448/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="live_movie_7" tvg-name="FAST"="https://i.postimg.cc/d0tnhm9Y/images.png" group-title="24/7 Live Movies",Aditya Music
+https://raw.githubusercontent.com/ahan443/FAST-IPTV /refs/heads/main/movies.m3u8
 
