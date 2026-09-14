@@ -24,11 +24,3 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-id="live_movie_6" tvg-name="Aditya Music"="https://i.postimg.cc/d0tnhm9Y/images.png" group-title="24/7 Live Movies",Aditya Music
 https://live20.bozztv.com/giatvplayout7/giatv-210448/tracks-v1a1/mono.ts.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="live_movie_7" tvg-name="FAST"="https://i.postimg.cc/d0tnhm9Y/images.png" group-title="24/7 Live Movies",Aditya Music
-https://raw.githubusercontent.com/ahan443/FAST-IPTV /refs/heads/main/movies.m3u8
-
