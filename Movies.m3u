@@ -9,7 +9,7 @@
 #EXTINF:-1 tvg-id="live_movie_1" tvg-name="Eros Now Movies" tvg-logo="https://i.postimg.cc/8cjHsFRv/images-(6).jpg" group-title="24/7 Live Movies",Eros Now Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="live_movie_2" tvg-name="24/7 South Movies" tvg-logo="https://i.ibb.co.com/MyscFQJm/Hindi-Movis.png" group-title="24/7 Live Movies",24/7 South Movies
+#EXTINF:-1 tvg-id="live_movie_2" tvg-name="24/7 South Movies" tvg-logo="https://i.ibb.co.com/4nLWcjFn/South-Movies.png" group-title="24/7 Live Movies",24/7 South Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="live_movie_3" tvg-name="24/7 Hindi Movies" tvg-logo="https://i.ibb.co.com/MyscFQJm/Hindi-Movis.png" group-title="24/7 Live Movies",24/7 Hindi Movies
